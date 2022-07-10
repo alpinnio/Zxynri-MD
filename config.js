@@ -3,7 +3,7 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY ZIFABOTZ
-
+ovj
 //=============『 Utama 』================== //
 global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
 global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
